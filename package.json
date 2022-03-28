@@ -1,0 +1,20 @@
+{
+  "name": "httpowl",
+  "version": "0.0.1",
+  "description": "GET JSON from http/https sites",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "owl",
+    "http",
+    "https",
+    "fetch"
+  ],
+  "author": "dubfib",
+  "license": "MIT",
+  "dependencies": {
+    "node-fetch": "^2.6.7"
+  }
+}
